@@ -1,5 +1,5 @@
 {
-    "name": "teamchallengeapps/distance",
+    "name": "batrox/distance",
     "description": "PHP Distance (Value Object) Helper",
     "license": "MIT",
     "authors": [
@@ -10,10 +10,10 @@
     ],
     "require": {
         "php": "^7.2|^8.0.2",
-        "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0"
+        "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^7.0|^8.0|^9.0"
+        "phpunit/phpunit": "^7.0|^8.0|^9.0|^10.0"
     },
     "autoload": {
         "psr-4": {
